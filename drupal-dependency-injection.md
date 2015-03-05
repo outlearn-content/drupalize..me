@@ -20,8 +20,7 @@ In this tutorial, we’ll be coding with a real example where we create a simple
 <iframe src="http://drupalize.me/ajax/dmeembed/OBXNV3JEMW85EPCMJSZET7TXZCWYDZOK" width="720" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </br>
 
-**Downloads:**
-[Sign in](https://drupalize.me/user/login?destination=node/1779%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
+**Downloads:** [Sign in](https://drupalize.me/user/login?destination=node/1779%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
 
 **Additional resources:**
 
@@ -40,9 +39,7 @@ Our app is small now, but as it grows, the app.php file will get harder and hard
 <iframe src="http://drupalize.me/ajax/dmeembed/IDE5AUB8CVYEACER3BQXTFWDJCUK8TCB" width="720" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </br>
 
-**Downloads:**
-
-[Sign in](https://drupalize.me/user/login?destination=node/1781%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
+**Downloads:** [Sign in](https://drupalize.me/user/login?destination=node/1781%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
 
 **Additional resources:**
 
@@ -60,9 +57,7 @@ We’ve already created our first service and used dependency injection, but one
 <iframe src="http://drupalize.me/ajax/dmeembed/7X6YT6KTAOYXHYQSCVTZ6STGDADZMJAR" width="720" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </br>
 
-**Downloads:**
-
-[Sign in](https://drupalize.me/user/login?destination=node/1782%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
+**Downloads:** [Sign in](https://drupalize.me/user/login?destination=node/1782%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
 
 <!-- @section -->
 
@@ -74,9 +69,7 @@ Our project now has services, an interface, and is fully using dependency inject
 <iframe src="http://drupalize.me/ajax/dmeembed/4GNFQJLG5TNKXL889ZA7HPU75DE7T2ZS" width="720" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </br>
 
-**Downloads:**
-
-[Sign in](https://drupalize.me/user/login?destination=node/1783%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
+**Downloads:** [Sign in](https://drupalize.me/user/login?destination=node/1783%3Fp%3D1780) or [sign up](https://drupalize.me/pricing) to download companion files.
 
 **Additional resources:**
 
