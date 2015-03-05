@@ -1,1 +1,1 @@
-# drupalize..me
+# drupalize.me
