@@ -2,7 +2,7 @@
 name: drupal-dependency-injection
 version : "0.1"
 title : "Dependency Injection and the Art of Services and Containers"
-description: "Get your object-oriented skills sharp by exploring the ideas and reasons behind dependency injection. "
+description: "Get your object-oriented skills sharp by exploring the ideas and reasons behind dependency injection."
 homepage : "https://drupalize.me/videos/introduction-dependency-injection?p=1780"
 author : "Leanna Pelham "
 -->

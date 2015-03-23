@@ -1,0 +1,35 @@
+{
+  "olpVersion" : "0.2",
+  "name" : "drupal-dependency-injection",
+  "version" : "0.1",
+  "title" : "Dependency Injection and the Art of Services and Containers",
+  "description": "Get your object-oriented skills sharp by exploring the ideas and reasons behind dependency injection.",
+  "homepage" : "https://drupalize.me/videos/introduction-dependency-injection?p=1780",
+  "authors" : {
+    "name": "Leanna Pelham"
+  },
+  "license" : "All Rights Reserved",
+  "contact" : "addi@lullabot.com",
+  "sections" : [
+    {
+      "title": "Introduction to Dependency Injection",
+      "location": "sections/introduction.md"
+    },
+    {
+      "title": "Services and Dependency Injection",
+      "location": "sections/services_and_dependency_injection.md"
+    },
+    {
+      "title": "Injecting Configuration and Services, and Using Interfaces",
+      "location": "sections/injecting_configuration_and_services_and_using_interfaces.md"
+    },
+    {
+      "title": "Dependency Injection Container",
+      "location": "sections/dependency_injection_container.md"
+    },
+    {
+      "title": "A Dependency Injector Container in Your Project",
+      "location": "sections/dependency_injector_container_in_your_project.md"
+    }
+  ]
+}
