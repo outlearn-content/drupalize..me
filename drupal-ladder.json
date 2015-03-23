@@ -1,0 +1,35 @@
+{
+  "olpVersion" : "0.2",
+  "name" : "drupal-ladder",
+  "version" : "0.1",
+  "title" : "he Learn Drupal Ladder",
+  "description": "In this series we introduce the Drupal Ladder project, and walk through the lessons in the Drupal ladder.",
+  "homepage" : "https://drupalize.me/videos/overview-learn-drupal-ladder?p=1176",
+  "authors" : {
+    "name": "Addison Berry"
+  },
+  "license" : "All Rights Reserved",
+  "contact" : "addi@lullabot.com",
+  "sections" : [
+    {
+      "title": "Overview of the Learn Drupal Ladder",
+      "location": "sections/overview.md"
+    },
+    {
+      "title": "Install Drupal Locally with Dev Desktop",
+      "location": "sections/install_drupal_locally_with_dev_desktop.md"
+    },
+    {
+      "title": "Install Git",
+      "location": "sections/install_git.md"
+    },
+    {
+      "title": "Getting Started in the Issue Queue",
+      "location": "sections/getting_started_in_the_issue_queue.md"
+    },
+    {
+      "title": "Test Patches",
+      "location": "sections/test_patches.md"
+    }
+  ]
+}
