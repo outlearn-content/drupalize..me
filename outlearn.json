@@ -14,9 +14,24 @@
   },
   "sections" : [
     {
-      "type": "module",
-      "contentType" : "outlearn/olm",
+      "title": "Overview of the Learn Drupal Ladder",
       "location": "sections/overview.md"
+    },
+    {
+      "title": "Install Drupal Locally with Dev Desktop",
+      "location": "sections/install_drupal_locally_with_dev_desktop.md"
+    },
+    {
+      "title": "Install Git",
+      "location": "sections/install_git.md"
+    },
+    {
+      "title": "Getting Started in the Issue Queue",
+      "location": "sections/getting_started_in_the_issue_queue.md"
+    },
+    {
+      "title": "Test Patches",
+      "location": "sections/test_patches.md"
     }
   ]
 }
