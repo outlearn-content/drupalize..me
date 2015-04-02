@@ -15,7 +15,7 @@
     {
       "type": "module",
       "contentType" : "outlearn/olm",
-      "location": "recipes/1_install_configure/install_with_installer/recipe.md"
+      "location": "sections/overview.md"
     }
   ]
 }
