@@ -8,8 +8,9 @@
   "authors" : ["Addison Berry"],
   "license" : "All Rights Reserved",
   "contact" : {
-    "url" : "https://github.com/rediscookbook/rediscookbook",
-    "twitter": "rediscookbook"
+    "url" : "https://drupalize.me",
+    "email" : "addi@lullabot.com",
+    "twitter": "drupalizeme"
   },
   "sections" : [
     {
