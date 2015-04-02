@@ -1,3 +1,17 @@
+<!--
+name: overview
+version : "0.9"
+title : "What is Drupal Ladder"
+description: "Intro to Drupal Ladder"
+homepage : "http://drupal.org"
+author : "Jane Doe"
+license : "CC Attribution Share Alike 3.0"
+-->
+
+<!-- @section -->
+
+### Overview
+
 In this series we introduce the [Drupal Ladder project](http://drupalladder.org/), and walk through the lessons in the [Drupal ladder](http://drupalladder.org/ladder/ee503327-50be-1904-8d04-9499098cad64). This community initiative was created to get more people to help with work on Drupal core. It achieves this by creating lessons that start with the very basic skills needed to help and working their way up the ladder into more skills and tasks. Our series begins with a short presentation about the project, and then the subsequent videos walk through the lessons from the ladder, starting with installing Drupal locally.
 
 </br>
