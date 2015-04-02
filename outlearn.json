@@ -3,10 +3,10 @@
   "name" : "drupal-ladder",
   "version" : "0.1",
   "title" : "The Learn Drupal Ladder",
-  "description": "A collection of Redis how-to's, built by the Redis community.",
-  "homepage" : "http://www.rediscookbook.org/",
-  "authors" : [ "Ted Nyman", "Tim Lossen" ],
-  "license" : "CC Attribution Share Alike 3.0",
+  "description": "In this series we introduce the Drupal Ladder project, and walk through the lessons in the Drupal ladder.",
+  "homepage" : "https://drupalize.me/videos/overview-learn-drupal-ladder?p=1176",
+  "authors" : ["Addison Berry"],
+  "license" : "All Rights Reserved",
   "contact" : {
     "url" : "https://github.com/rediscookbook/rediscookbook",
     "twitter": "rediscookbook"
